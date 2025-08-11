@@ -37,6 +37,7 @@ Software Engineering student specializing in **full-stack development**, **AI/ML
 ---
 
 ### **GameShop Web Application**  
+[Git Repo](https://github.com/McGill-ECSE321-Fall2024/project-group-11)
 - Architected a platform to facilitate online game sales and catalog management.  
 - Designed a **PostgreSQL database** with comprehensive CRUD operations for user data.  
 - Implemented backend logic using **Spring Boot**, exposing RESTful APIs.  
