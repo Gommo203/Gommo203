@@ -30,6 +30,7 @@ Software Engineering student specializing in **full-stack development**, **AI/ML
 ---
 
 ### **IceBreaker App (LangChain)**  
+[Git Repo](https://github.com/Gommo203/IceBreaker)
 - Built a **LangChain-powered tool** that retrieves photos, summaries, and interest data from LinkedIn profiles using only individuals' names.  
 - Integrated the data extractor into a full-stack application to demonstrate **API handling**, **data parsing**, and **frontend/backend integration**.
 
